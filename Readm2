@@ -1,0 +1,9 @@
+🚨 New Article: Vulnerability Discovered in CyberArk EPM 🚨
+
+Recently, I had the opportunity to identify a vulnerability in the Endpoint Privilege Manager (EPM) module of CyberArk. This discovery involves a bypass in software controls using the Windows Subsystem for Linux (WSL), which could impact the security of systems relying on this tool.
+In my article, I share details about the vulnerability, its potential impact, and possible mitigation measures to help safeguard corporate environments.
+
+🔗 Read the full article here: https://lnkd.in/dFsEcDhT
+
+Cybersecurity is a shared responsibility, and this experience underscores the importance of responsible disclosure to strengthen our systems. 📢
+If you work in security, use EPM, or are interested in the topic, take a look at the article and share your thoughts! 💡
